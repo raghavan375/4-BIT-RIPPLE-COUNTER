@@ -71,8 +71,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
     endmodule
 ```
 ```
- Developed by: AMIRTHA VARSHINI M
- RegisterNumber: 212224230017
+ Developed by: THIRAVIA RAJA RAGHAVAN G
+ RegisterNumber: 212224050055
 ```
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
